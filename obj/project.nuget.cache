@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "okWdCg3GZgiJa5lsSCOa4By3cptwCKVirPV8WPGlbiiEuokTVGQgfXfXOOuMPdco/nTvkr3ALRR1B/z1wUXaGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PAVANI\\OneDrive\\Desktop\\dillipavani\\dillipavani.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PAVANI\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

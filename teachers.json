@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "pavani",
+    "Age": 22,
+    "DOB": "2002-10-30",
+    "NumClasses": 9
+  },
+  {
+    "Name": "pavani",
+    "Age": 23,
+    "DOB": "2002-10-20",
+    "NumClasses": 4
+  },
+  {
+    "Name": "john deo",
+    "Age": 23,
+    "DOB": "2002-10-30",
+    "NumClasses": 5
+  }
+]

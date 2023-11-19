@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS Teachers (
+    TeacherID INT AUTO_INCREMENT PRIMARY KEY,
+    Name VARCHAR(100) NOT NULL,
+    Age INT,
+    DOB DATE,
+    NumClasses INT
+);

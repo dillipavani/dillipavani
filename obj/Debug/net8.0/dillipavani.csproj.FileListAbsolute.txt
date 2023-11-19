@@ -1,0 +1,17 @@
+C:\Users\PAVANI\OneDrive\Desktop\dillipavani\bin\Debug\net8.0\dillipavani.deps.json
+C:\Users\PAVANI\OneDrive\Desktop\dillipavani\bin\Debug\net8.0\dillipavani.dll
+C:\Users\PAVANI\OneDrive\Desktop\dillipavani\bin\Debug\net8.0\dillipavani.pdb
+C:\Users\PAVANI\OneDrive\Desktop\dillipavani\obj\Debug\net8.0\dillipavani.csproj.AssemblyReference.cache
+C:\Users\PAVANI\OneDrive\Desktop\dillipavani\obj\Debug\net8.0\dillipavani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAVANI\OneDrive\Desktop\dillipavani\obj\Debug\net8.0\dillipavani.AssemblyInfoInputs.cache
+C:\Users\PAVANI\OneDrive\Desktop\dillipavani\obj\Debug\net8.0\dillipavani.AssemblyInfo.cs
+C:\Users\PAVANI\OneDrive\Desktop\dillipavani\obj\Debug\net8.0\dillipavani.csproj.CoreCompileInputs.cache
+C:\Users\PAVANI\OneDrive\Desktop\dillipavani\obj\Debug\net8.0\dillipavani.dll
+C:\Users\PAVANI\OneDrive\Desktop\dillipavani\obj\Debug\net8.0\refint\dillipavani.dll
+C:\Users\PAVANI\OneDrive\Desktop\dillipavani\obj\Debug\net8.0\dillipavani.pdb
+C:\Users\PAVANI\OneDrive\Desktop\dillipavani\obj\Debug\net8.0\ref\dillipavani.dll
+C:\Users\PAVANI\OneDrive\Desktop\dillipavani\bin\Debug\net8.0\dillipavani.exe
+C:\Users\PAVANI\OneDrive\Desktop\dillipavani\bin\Debug\net8.0\dillipavani.runtimeconfig.json
+C:\Users\PAVANI\OneDrive\Desktop\dillipavani\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\PAVANI\OneDrive\Desktop\dillipavani\obj\Debug\net8.0\dillipavani.csproj.CopyComplete
+C:\Users\PAVANI\OneDrive\Desktop\dillipavani\obj\Debug\net8.0\dillipavani.genruntimeconfig.cache
